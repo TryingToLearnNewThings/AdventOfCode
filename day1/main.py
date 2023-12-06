@@ -1,7 +1,7 @@
 import re
 
 
-with open("aufgabe.txt", 'r') as str1:
+with open("day1.txt", 'r') as str1:
     str1 = str1.readlines()
 
 
